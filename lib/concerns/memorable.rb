@@ -5,6 +5,8 @@ def reset_all
 end
 
 def count
+  binding.pry
   self.count
 end
+
 end
